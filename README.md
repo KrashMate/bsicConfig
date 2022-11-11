@@ -1,3 +1,3 @@
 #Some configuration that I usually use in my 10 years old computer xD
 
-Brithness.sh > Just need the parameter that you want.
+Brightness.sh > Just need the parameter that you want.
